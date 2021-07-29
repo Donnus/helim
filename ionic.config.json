@@ -1,0 +1,7 @@
+{
+  "name": "helim",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "helim",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
